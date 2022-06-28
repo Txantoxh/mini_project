@@ -1,0 +1,8 @@
+public class guessing_game{
+    public static void main(Strings[]args){
+        system.out.println("Enter the alphabts");
+
+    }
+
+
+}
